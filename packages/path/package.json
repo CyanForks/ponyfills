@@ -2,6 +2,7 @@
   "name": "@cordisjs/path",
   "version": "1.0.0",
   "description": "Node.js path module ponyfill for browser",
+  "type": "commonjs",
   "exports": {
     ".": "./lib/index.js",
     "./src/*": "./src/*",
@@ -27,5 +28,8 @@
     "ponyfill",
     "polyfill",
     "node"
-  ]
+  ],
+  "devDependencies": {
+    "@types/node": "^25.6.2"
+  }
 }

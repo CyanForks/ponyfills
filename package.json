@@ -12,7 +12,10 @@
     "yakumo": "yakumo --import tsx --import @cordisjs/unyaml",
     "build": "yarn yakumo esbuild && yarn yakumo tsc",
     "lint": "eslint --cache",
-    "test": "yarn yakumo vitest --import tsx"
+    "test": "yarn yakumo vitest --import tsx",
+    "test:text": "shx rm -rf coverage && yarn test --coverage --coverage.reporter text",
+    "test:json": "shx rm -rf coverage && yarn test --coverage --coverage.reporter json",
+    "test:html": "shx rm -rf coverage && yarn test --coverage --coverage.reporter html"
   },
   "devDependencies": {
     "@cordisjs/eslint-config": "^1.1.1",
