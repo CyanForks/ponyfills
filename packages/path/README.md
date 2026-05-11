@@ -1,5 +1,5 @@
-# @koishijs/path
+# @cordisjs/path
 
-[![npm](https://img.shields.io/npm/v/@koishijs/path?style=flat-square)](https://www.npmjs.com/package/@koishijs/path)
+[![npm](https://img.shields.io/npm/v/@cordisjs/path?style=flat-square)](https://www.npmjs.com/package/@cordisjs/path)
 
 Node.js path module ponyfill for browser.

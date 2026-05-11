@@ -1,5 +1,5 @@
-# @koishijs/url
+# @cordisjs/url
 
-[![npm](https://img.shields.io/npm/v/@koishijs/url?style=flat-square)](https://www.npmjs.com/package/@koishijs/url)
+[![npm](https://img.shields.io/npm/v/@cordisjs/url?style=flat-square)](https://www.npmjs.com/package/@cordisjs/url)
 
 Node.js url module ponyfill for browser.

@@ -2,14 +2,10 @@ root: true
 
 env:
   browser: true
-  mocha: true
-  es2020: true
+  node: true
 
 globals:
   NodeJS: true
 
 extends:
-  - '@koishijs/eslint-config'
-
-plugins:
-  - mocha
+  - '@cordisjs/eslint-config'

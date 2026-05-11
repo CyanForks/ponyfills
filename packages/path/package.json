@@ -1,5 +1,5 @@
 {
-  "name": "@koishijs/path",
+  "name": "@cordisjs/path",
   "version": "1.0.0",
   "description": "Node.js path module ponyfill for browser",
   "exports": {
@@ -13,13 +13,13 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/koishijs/ponyfills.git",
+    "url": "git+https://github.com/cordiverse/ponyfills.git",
     "directory": "packages/path"
   },
   "bugs": {
-    "url": "https://github.com/koishijs/ponyfills/issues"
+    "url": "https://github.com/cordiverse/ponyfills/issues"
   },
-  "homepage": "https://github.com/koishijs/ponyfills",
+  "homepage": "https://github.com/cordiverse/ponyfills",
   "author": "Shigma <shigma10826@gmail.com>",
   "keywords": [
     "path",
